@@ -1,0 +1,115 @@
+.body-div{
+    background-color: #FFFFFF;
+}
+.mx-lg-5{
+    margin-top: 30px;
+}
+.photo{
+    border-radius: 1%;
+}
+.style1{
+    background-color: whitesmoke;
+}
+.style2{
+    background-color: black;
+    opacity: .9;
+}
+.ml-lg{
+    margin-left: -80px;
+}
+
+.font-black-header{
+    font-size: 35px;
+    color: #333;
+    font-family: 'Montserrat Alternates', sans-serif;
+    letter-spacing: 3px;
+
+}
+.font-black-body{
+    font-size: 20px;
+    color: #333;
+    font-family: 'Montserrat Alternates', sans-serif;
+    letter-spacing: 3px;
+}
+.font-white-header{
+    font-size: 35px;
+    color: #FFFFFF;
+    font-family: 'Montserrat Alternates', sans-serif;
+    letter-spacing: 3px;
+}
+.font-white-body{
+    font-size: 20px;
+    color: #FFFFFF;
+    font-family: 'Montserrat Alternates', sans-serif;
+    letter-spacing: 3px;
+}
+
+
+
+
+
+
+.video{
+    border-bottom: 5px solid black;
+    background-size: cover;
+    align-items: center;
+    position: relative;
+}
+
+.header-title-vlog{
+    background-color: #FFFFFF;
+    
+}
+.gallery{
+    background-image: url(image/gallery1.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+
+}
+.backgraound-effect{
+    background-color: rgba(0,0,0,0.7);
+    opacity: .9;
+}
+.card-body{
+    background-color: black;
+}
+.img-fluid{
+    border: 2px solid black;
+    height: 200px;
+    width: 300px;
+}
+
+#footer{
+    background-color: black;
+}
+.footer-head{
+    color: #FFFFFF;
+    font-family: 'Montserrat Alternates', sans-serif;
+    letter-spacing: 5px;
+}
+
+.footer-text{
+    color: #FFFFFF;
+    font-family: 'Montserrat Alternates', sans-serif;
+    letter-spacing: 7px;
+}
+.link{
+    color: blanchedalmond;
+    text-decoration: none;
+}
+.link:hover{
+    color: cadetblue;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+
+
+.background-contact{
+    background-image: url(image/secbackground.jpeg);
+    background-attachment: fixed;
+}
+
+.container-msg{
+    background-image: url(image/20190503_160508.jpg);
+    background-attachment: fixed;
+}
